@@ -1,7 +1,4 @@
 numpy
 pandas
-flask 
-sklearn.linear_model 
-joblib
-os
-logging
+flask
+scikit-learn
